@@ -1,7 +1,6 @@
-# Tutorato Probabilità 2223
+# Tutorato Probabilità A.A. 2022/23
 
-Repository con le soluzioni degli esercizi del tutorato di probabilità
-della laurea triennale di informatica dell'università di Padova
+Repository con le soluzioni degli esercizi del **tutorato di Probabilità e Statistica** della laurea triennale di Informatica dell'Università di Padova.
 
 ## Calendario Tutorati
 
@@ -16,5 +15,3 @@ della laurea triennale di informatica dell'università di Padova
 |      7     | 30 novembre | 12:30 14:30 |   1A150  |
 |      8     |  7 dicembre | 12:30 14:30 |   1A150  |
 |      9     | 14 dicembre | 12:30 14:30 |   1A150  |
-
-
