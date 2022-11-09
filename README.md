@@ -1,8 +1,8 @@
-# Tutorato Probabilità A.A. 2022/23
+# Tutorato Probabilità e Statistica
 
 Repository con le soluzioni degli esercizi del **tutorato di Probabilità e Statistica** della laurea triennale di Informatica dell'Università di Padova.
 
-## Calendario Tutorati
+## Calendario lezioni A.A. 2022/23
 
 | **NUMERO** |  **GIORNO** |   **ORA**   | **AULA** |
 |:----------:|:-----------:|:-----------:|----------|
