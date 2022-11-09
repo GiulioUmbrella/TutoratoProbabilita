@@ -295,8 +295,8 @@ Indicare i risultati delle seguenti operazioni
 3. $C \setminus D$
 4. $D \setminus C$
 5. $B \cup (C \setminus B)$
-6. $A x B$
+6. $A \times B$
 7. $(A \cup D) \cap (B \cup D)$
 8. $A \cup (F \cap G)$
 9. $(A \cup F) \cap (A \cup G)$
-10. A x A ${\setminus}$ A x {4}
+10. $A \times A {\setminus} A \times {4}$
