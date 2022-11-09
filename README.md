@@ -15,3 +15,5 @@ Repository con le soluzioni degli esercizi del **tutorato di Probabilità e Stat
 |      7     | 30 novembre | 12:30 14:30 |   1A150  |
 |      8     |  7 dicembre | 12:30 14:30 |   1A150  |
 |      9     | 14 dicembre | 12:30 14:30 |   1A150  |
+
+*Ultimo aggiornamento: 9 novembre 2022.*
